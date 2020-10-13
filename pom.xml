@@ -5,7 +5,7 @@
 	<artifactId>sistema-academico-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<selenium.version>2.53.0</selenium.version>
 	</properties>
 
